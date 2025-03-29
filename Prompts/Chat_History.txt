@@ -1,0 +1,2 @@
+HumanMessage(content='Do you know about my order? Order number #17NJK49J')
+AIMessage(content='Yes, I know about your order. Can I share your order details?')

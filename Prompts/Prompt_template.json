@@ -1,0 +1,17 @@
+{
+    "name": null,
+    "input_variables": [
+        "paper_name",
+        "summarize_length",
+        "summarize_style"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "\n    Please summarize the research paper titled \"{paper_name}\" in a \"{summarize_style}\" way.\n    Keep it \"{summarize_length}\", focus on key contributions and results.\n    Present it in bullet points.\n    ",
+    "template_format": "f-string",
+    "validate_template": true,
+    "_type": "prompt"
+}
