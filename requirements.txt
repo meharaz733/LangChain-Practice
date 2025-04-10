@@ -1,6 +1,7 @@
 #LangChin Core
 langchain
 langchain-core
+langchain-community
 
 #OpenAI Integration
 langchain-openai
@@ -25,3 +26,23 @@ python-dotenv
 numpy
 scikit-learn
 
+#database
+chromadb
+tiktoken
+langchain_pinecone
+pinecone-client
+pinecone-notebooks
+
+
+
+#others
+PyPDF
+fastapi
+uvicorn
+streamlit
+annotated-types
+pydantic-core
+typing-extensions
+grandalf
+beautifulsoup4
+huggingface_hub[hf_xet]
