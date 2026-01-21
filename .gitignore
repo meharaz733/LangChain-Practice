@@ -1,4 +1,4 @@
 .env
-LangChain/
+.langchain/
 FastAPI/__pycache__
 .github_token.txt
